@@ -1,3 +1,4 @@
 __pycache__/
 *.pdf
 cdps-env/
+*.qcow2
