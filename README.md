@@ -107,6 +107,8 @@ pip install -r requirements.txt
 ```
 
 ## Nota
+El archivo de imagen qcow2 base se puede descargar en https://drive.google.com/file/d/16Zf4A26cHvdu8ArhaFZxTfETVHcr_fre/view?usp=drive_link
+
 Los scripts fueron creados en un entorno local, con una instalación limpia de Ubuntu 24.01 LTS.
 
 Creado por Martín Burgos.
