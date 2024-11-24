@@ -1,0 +1,6 @@
+{
+    "qcow_base": "cdps-vm-base-pc1.qcow2",
+    "xml_base": "plantilla-vm-pc1.xml",
+    "debug": true,
+    "number_of_servers": 2
+}
